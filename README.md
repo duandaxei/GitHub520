@@ -26,31 +26,31 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.112.4                  alive.github.com
-140.82.112.4                  live.github.com
-3.94.127.58                   github.githubassets.com
-140.82.112.4                  central.github.com
-3.81.132.23                   desktop.githubusercontent.com
-140.82.112.4                  assets-cdn.github.com
-54.160.206.1                  camo.githubusercontent.com
+140.82.114.4                  alive.github.com
+140.82.114.4                  live.github.com
+18.209.66.1                   github.githubassets.com
+140.82.114.4                  central.github.com
+44.197.200.65                 desktop.githubusercontent.com
+140.82.114.4                  assets-cdn.github.com
+3.215.183.244                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
-140.82.112.4                  gist.github.com
+140.82.114.4                  gist.github.com
 185.199.108.153               github.io
-140.82.112.4                  github.com
+140.82.114.4                  github.com
 192.0.66.2                    github.blog
-140.82.112.4                  api.github.com
-3.80.57.146                   raw.githubusercontent.com
-34.203.9.210                  user-images.githubusercontent.com
-3.94.128.92                   favicons.githubusercontent.com
-3.94.128.92                   avatars5.githubusercontent.com
-54.87.19.18                   avatars4.githubusercontent.com
-18.212.150.214                avatars3.githubusercontent.com
-52.23.169.75                  avatars2.githubusercontent.com
-18.212.246.155                avatars1.githubusercontent.com
-23.20.193.211                 avatars0.githubusercontent.com
-54.226.194.147                avatars.githubusercontent.com
-140.82.112.4                  codeload.github.com
+140.82.114.4                  api.github.com
+3.238.131.4                   raw.githubusercontent.com
+54.236.38.104                 user-images.githubusercontent.com
+3.87.79.115                   favicons.githubusercontent.com
+3.85.245.246                  avatars5.githubusercontent.com
+3.238.34.106                  avatars4.githubusercontent.com
+54.175.15.215                 avatars3.githubusercontent.com
+18.207.203.117                avatars2.githubusercontent.com
+44.192.30.3                   avatars1.githubusercontent.com
+35.173.200.240                avatars0.githubusercontent.com
+3.239.75.29                   avatars.githubusercontent.com
+140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -59,22 +59,22 @@
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
 52.224.38.193                 github.dev
-140.82.112.4                  collector.github.com
-44.201.98.19                  pipelines.actions.githubusercontent.com
-18.205.156.193                media.githubusercontent.com
-3.92.162.92                   cloud.githubusercontent.com
-100.24.17.101                 objects.githubusercontent.com
-13.107.213.38                 vscode.dev
+140.82.114.4                  collector.github.com
+44.198.192.5                  pipelines.actions.githubusercontent.com
+3.86.28.210                   media.githubusercontent.com
+3.85.245.246                  cloud.githubusercontent.com
+3.86.15.14                    objects.githubusercontent.com
+13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-08-21T22:05:38+08:00
+# Update time: 2022-08-23T06:05:43+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-21T22:05:38+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-08-23T06:05:43+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
