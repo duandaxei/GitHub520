@@ -75,14 +75,14 @@
 13.107.226.51                 vscode.dev
 
 
-# Update time: 2023-02-24T18:05:12+08:00
+# Update time: 2023-02-25T02:05:41+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2023-02-24T18:05:12+08:00
+该内容会自动定时更新， 数据更新时间：2023-02-25T02:05:41+08:00
 
 #### 2.1.2 修改 hosts 文件
 
