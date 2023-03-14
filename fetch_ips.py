@@ -122,7 +122,7 @@ def get_ip(session: Any, github_url: str) -> Optional[str]:
                       '06.0.0.0 Safari/537.36'}
     try:
         rs = session.get(url, headers=headers, timeout=5)
-        table = rs.html.find('#dns', first=True)
+        table = rs.html.find('ul.separated2', first=True)
         pattern = r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b"
         ip_list = re.findall(pattern, table.text)
         best_ip = get_best_ip(ip_list)
@@ -162,8 +162,8 @@ def main(verbose=False) -> None:
     hosts_content = HOSTS_TEMPLATE.format(content=content,
                                           update_time=update_time)
     has_change = write_file(hosts_content, update_time)
-    # if has_change:
-    #     write_json_file(content_list)
+    if has_change:
+        write_json_file(content_list)
     if verbose:
         print(hosts_content)
         print('End script.')
