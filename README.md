@@ -76,14 +76,14 @@
 140.82.112.21                 education.github.com
 
 
-# Update time: 2023-07-03T18:05:25+08:00
+# Update time: 2023-07-05T00:05:38+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2023-07-03T18:05:25+08:00
+该内容会自动定时更新， 数据更新时间：2023-07-05T00:05:38+08:00
 
 #### 2.1.2 修改 hosts 文件
 
