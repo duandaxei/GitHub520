@@ -78,14 +78,14 @@
 152.32.215.247                private-user-images.githubusercontent.com
 
 
-# Update time: 2026-06-10T02:51:08+08:00
+# Update time: 2026-06-12T19:21:57+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2026-06-10T02:51:08+08:00
+该内容会自动定时更新， 数据更新时间：2026-06-12T19:21:57+08:00
 
 #### 2.1.2 修改 hosts 文件
 
